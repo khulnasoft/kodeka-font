@@ -41,7 +41,7 @@ booleanoperations==0.9.0
     #   afdko
     #   fontparts
     #   ufo2ft
-brotli==1.1.0
+brotli==1.2.0
     # via
     #   fonttools
     #   gftools
@@ -186,7 +186,7 @@ glyphslib==6.10.1
     #   fontmake
     #   gftools
     #   glyphsets
-h11==0.14.0
+h11==0.16.0
     # via wsproto
 idna==3.10
     # via
@@ -256,7 +256,7 @@ packaging==24.2
     #   gftools
 picosvg==0.22.1
     # via nanoemoji
-pillow==11.2.1
+pillow==11.3.0
     # via
     #   diffenator2
     #   gftools
@@ -309,7 +309,7 @@ pyyaml==6.0.2
     #   glyphsets
 regex==2024.11.6
     # via nanoemoji
-requests==2.32.3
+requests==2.32.4
     # via
     #   fontbakery
     #   gftools
